@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+body h1 h2 h3{
+    color: #e4b300;
+}
+
+.jdlbrand h2{
+    color: #e4b300;
+}
+
+.services h2{
+    color: #e4b300;
+}
+
+
+.carousel-item img{
+    filter: brightness(45%);
+}
